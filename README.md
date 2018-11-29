@@ -1,7 +1,9 @@
 # Pretrained_Model_Pytorch
 pytorch pretrained model  
 ---
-resnet [https://arxiv.org/abs/1608.06993](https://arxiv.org/abs/1608.06993)
+resnet 
+---
+[https://arxiv.org/abs/1608.06993](https://arxiv.org/abs/1608.06993)
 ---
 'resnet18': 'https://download.pytorch.org/models/resnet18-5c106cde.pth',  
 'resnet34': 'https://download.pytorch.org/models/resnet34-333f7ec4.pth',  
@@ -9,14 +11,18 @@ resnet [https://arxiv.org/abs/1608.06993](https://arxiv.org/abs/1608.06993)
 'resnet101': 'https://download.pytorch.org/models/resnet101-5d3b4d8f.pth',  
 'resnet152': 'https://download.pytorch.org/models/resnet152-b121ed2d.pth',  
 
-densenet [https://arxiv.org/abs/1512.03385](https://arxiv.org/abs/1512.03385)
+densenet
+---
+[https://arxiv.org/abs/1608.06993](https://arxiv.org/abs/1608.06993)
 ---
 'densenet121': 'https://download.pytorch.org/models/densenet121-a639ec97.pth',  
 'densenet169': 'https://download.pytorch.org/models/densenet169-b2777c0a.pth',  
 'densenet201': 'https://download.pytorch.org/models/densenet201-c1103571.pth',  
 'densenet161': 'https://download.pytorch.org/models/densenet161-8d451a50.pth',  
 
-inception_v3 [https://arxiv.org/abs/1512.00567](https://arxiv.org/abs/1512.00567)
+inception_v3
+---
+[https://arxiv.org/abs/1512.00567](https://arxiv.org/abs/1512.00567)
 ---
 'inception_v3_google': 'https://download.pytorch.org/models/inception_v3_google-1a9a5a14.pth',  
 
